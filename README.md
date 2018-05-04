@@ -427,7 +427,6 @@ for embedded systems (IoT in mind).
 * [Espruna](https://bitbucket.org/xoseperez/espurna) - Firmware for ESP8266 based smart switches. Includes Web GUI, MQTT and AOT software updates.
 * [gLeam](https://github.com/mikespook/gleam) - A operation cluster based on MQTT.
 * [Homie for ESP8266 ★ 115 ⧗ 1](https://github.com/marvinroger/homie-esp8266) - An Arduino for ESP8266 implementation of Homie, an MQTT convention for the IoT.
-* [Homie Server ★ 45 ⧗ 3](https://github.com/marvinroger/homie-server) - A Web server for Homie, an MQTT convention for the IoT.
 * [Java mqtt-client ★ 405 ⧗ 2](https://github.com/fusesource/mqtt-client) - A Java MQTT Client.
 * [LightMQTT](https://github.com/PasiSalenius/LightMQTT) - is a lightweight MQTT client, written in Swift.
 * [m2mqtt ★ 69 ⧗ 11](https://github.com/ppatierno/m2mqtt) - MQTT Client Library for .Net and WinRT.
