@@ -346,7 +346,6 @@ Layered architecture of JTAG interface and TAP support
 * [Floorplan for Home Assistant](https://github.com/pkozul/ha-floorplan) - the Home Assistant front end provides a great way of viewing and interacting with your entities.
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** -  Home-Automation with node.js and Raspberry PI
 * **[home-assistant ★ 3237 ⧗ 0](https://github.com/balloob/home-assistant)** - Open-source home automation platform running on Python 3
-* [home.pi ★ 145 ⧗ 1](https://github.com/denschu/home.pi) - Home Automation with AngularJS and MQTT on a Raspberry Pi
 * **[Homebridge ★ 3030 ⧗ 0](https://github.com/nfarina/homebridge)** - Homebridge is a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit API.
 * [Lumos](https://github.com/jonathanrjpereira/Lumos) - aims to change that by pairing with WiFi and uses Machine Learning to adjust the light to match your sleep schedule.
 * **[Magic Mirror ★ 503 ⧗ 0](https://github.com/MicrosoftEdge/magic-mirror-demo)** - A ⚡Magic Mirror⚡ powered by a UWP Hosted Web App.
